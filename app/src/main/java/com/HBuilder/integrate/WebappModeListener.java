@@ -46,10 +46,10 @@ public class WebappModeListener implements ICore.ICoreStatusListener, IOnCreateS
         if (mSign == 0) {
             appBasePath = "/apps/HelloH5";
         } else if (mSign == 1) {
-            appBasePath = "/apps/H53B12F37";
+            appBasePath = "/apps/__UNI__0908E98";
         }
 
-        //String appBasePath = "/apps/jubeizf";
+        //String appBasePath = "/apps/__UNI__0908E98";
 
         // 设置启动参数,可在页面中通过plus.runtime.arguments;方法获取到传入的参数
         String args = "{url:'http://www.baidu.com'}";

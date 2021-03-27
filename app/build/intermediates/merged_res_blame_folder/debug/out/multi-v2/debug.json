@@ -1,0 +1,60 @@
+{
+    "logs": [
+        {
+            "outputFile": "/Volumes/Git/demo/HBuilder-Integrate-AS/app/build/intermediates/res/merged/debug/values-zh_values-zh.arsc.flat",
+            "map": [
+                {
+                    "source": "/Users/cengxiangxin/.gradle/caches/transforms-2/files-2.1/1eba2d5af63eaecf5310b0bf344c7a24/lib.5plus.base-release/res/values-zh/values-zh.xml",
+                    "from": {
+                        "startLines": "2,3",
+                        "startColumns": "4,4",
+                        "startOffsets": "55,124",
+                        "endColumns": "68,43",
+                        "endOffsets": "119,163"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/Volumes/Git/demo/HBuilder-Integrate-AS/app/build/intermediates/res/merged/debug/values_values.arsc.flat",
+            "map": [
+                {
+                    "source": "/Volumes/Git/demo/HBuilder-Integrate-AS/app/src/main/res/values/strings.xml",
+                    "from": {
+                        "startLines": "1",
+                        "startColumns": "4",
+                        "startOffsets": "16",
+                        "endColumns": "58",
+                        "endOffsets": "70"
+                    },
+                    "to": {
+                        "startLines": "11",
+                        "startColumns": "4",
+                        "startOffsets": "547",
+                        "endColumns": "58",
+                        "endOffsets": "601"
+                    }
+                },
+                {
+                    "source": "/Users/cengxiangxin/.gradle/caches/transforms-2/files-2.1/1eba2d5af63eaecf5310b0bf344c7a24/lib.5plus.base-release/res/values/values.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,11,12,13,15,16,17,31,48,53,59,64,68,72,75,78,84,90,96,100,107,113,8,9,10",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,96,137,178,242,305,1664,1725,1788,1909,1978,2033,2949,4112,4382,4727,5022,5232,5445,5612,5782,6087,6419,6753,7033,7413,7776,354,1370,1484",
+                        "endLines": "2,3,4,5,6,7,11,12,13,15,16,30,47,52,58,63,67,71,74,77,83,89,95,99,106,112,117,8,9,10",
+                        "endColumns": "40,40,40,63,62,48,60,62,68,68,54,12,12,13,12,12,12,12,12,12,12,12,12,12,12,12,12,1015,113,179",
+                        "endOffsets": "91,132,173,237,300,349,1720,1783,1852,1973,2028,2944,4107,4377,4722,5017,5227,5440,5607,5777,6082,6414,6748,7028,7408,7771,8081,1365,1479,1659"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,12,13,14,28,45,50,56,61,65,69,72,75,81,87,93,97,104,110,115,116,117",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,96,137,178,242,305,354,415,478,606,675,730,1646,2809,3079,3424,3719,3929,4142,4309,4479,4784,5116,5450,5730,6110,6473,6783,7799,7913",
+                        "endLines": "2,3,4,5,6,7,8,9,10,12,13,27,44,49,55,60,64,68,71,74,80,86,92,96,103,109,114,115,116,117",
+                        "endColumns": "40,40,40,63,62,48,60,62,68,68,54,12,12,13,12,12,12,12,12,12,12,12,12,12,12,12,12,1015,113,179",
+                        "endOffsets": "91,132,173,237,300,349,410,473,542,670,725,1641,2804,3074,3419,3714,3924,4137,4304,4474,4779,5111,5445,5725,6105,6468,6778,7794,7908,8088"
+                    }
+                }
+            ]
+        }
+    ]
+}

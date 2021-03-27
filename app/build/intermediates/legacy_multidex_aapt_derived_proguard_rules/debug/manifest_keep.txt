@@ -1,0 +1,2 @@
+-keep class io.dcloud.application.DCloudApplication { <init>(); }
+-keep class io.dcloud.multiprocess.activity.WebAppActivity1 { <init>(); }

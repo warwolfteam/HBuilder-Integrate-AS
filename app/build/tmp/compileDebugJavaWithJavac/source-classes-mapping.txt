@@ -1,0 +1,21 @@
+com/HBuilder/integrate/BuildConfig.java
+ com.HBuilder.integrate.BuildConfig
+com/HBuilder/integrate/wxapi/WXEntryActivity.java
+ com.HBuilder.integrate.wxapi.WXEntryActivity
+com/HBuilder/integrate/MainActivity.java
+ com.HBuilder.integrate.MainActivity
+ com.HBuilder.integrate.MainActivity$1
+ com.HBuilder.integrate.MainActivity$2
+com/HBuilder/integrate/wxapi/WXPayEntryActivity.java
+ com.HBuilder.integrate.wxapi.WXPayEntryActivity
+com/HBuilder/integrate/SDK_Runtime.java
+ com.HBuilder.integrate.SDK_Runtime
+ com.HBuilder.integrate.SDK_Runtime$1
+com/HBuilder/integrate/VideoActivity.java
+ com.HBuilder.integrate.VideoActivity
+com/HBuilder/integrate/SDK_WebApp.java
+ com.HBuilder.integrate.SDK_WebApp
+com/HBuilder/integrate/WebappModeListener.java
+ com.HBuilder.integrate.WebappModeListener
+ com.HBuilder.integrate.WebappModeListener$1
+ com.HBuilder.integrate.WebappModeListener$2
