@@ -44,9 +44,10 @@ public class WebappModeListener implements ICore.ICoreStatusListener, IOnCreateS
         // 表示Webapp的路径在 file:///android_asset/apps/HelloH5
         String appBasePath = "/apps/HelloH5";
         if (mSign == 0) {
-            appBasePath = "/apps/HelloH5";
-        } else if (mSign == 1) {
+//            appBasePath = "/apps/HelloH5";
             appBasePath = "/apps/__UNI__0908E98";
+        } else if (mSign == 1) {
+            appBasePath = "/apps/H53B12F37";
         }
 
         //String appBasePath = "/apps/__UNI__0908E98";
